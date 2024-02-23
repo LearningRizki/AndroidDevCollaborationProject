@@ -1,3 +1,6 @@
-fun main(){
-    println("hellow world...");
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
 }
