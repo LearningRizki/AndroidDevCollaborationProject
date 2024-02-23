@@ -1,1 +1,3 @@
-<php> asdhasjd <?php>
+fun main(){
+    println("hellow world...ok");
+}
