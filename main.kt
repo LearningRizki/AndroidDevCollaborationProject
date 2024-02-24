@@ -1,1 +1,6 @@
-<php>asdas<?php>
+
+
+fun main(){
+    println("hellow world...ok");
+}
+
